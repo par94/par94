@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @par94
-- 👀 I’m interested in Machine Learning and Blockchain
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Blockchain
-- 📫 How to reach me Anton Piskunov on LinkedIn
+# Hey, I'm Anton 👋
 
-<!---
-par94/par94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Building the Personal OS — AI agents, automation, crypto research**
+
+I'm exploring how to wire AI into everyday life. Currently building a system where Claude Code lives inside Anytype, handling tasks through natural conversation.
+
+## What I'm working on
+
+🧠 **Personal OS** — Claude + Anytype + n8n integration for AI-native life management
+🔐 **[Visual Entropy BIP39](https://github.com/par94/visual-entropy-bip39)** — Using images to generate cryptographic seed phrases
+⚡ **Automation** — n8n workflows that connect everything
+
+## Let's connect
+
+[![X](https://img.shields.io/badge/@par94-000000?style=flat&logo=x&logoColor=white)](https://x.com/par94)
+[![LinkedIn](https://img.shields.io/badge/antonpiskunov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonpiskunov/)
+
+Building in public. Follow along.
